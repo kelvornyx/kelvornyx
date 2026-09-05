@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://github.com/Kelvornyx">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Kelvorn%20%F0%9F%91%8B;HXK%2C%20Haru%2C%20Kura&font=Fira+Code&center=true&width=500&height=50&color=FF4D2D&vCenter=true&size=24" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I%27m%20Kelvorn%20;HXK%2C%20Haru%2C%20Kura&font=Fira+Code&center=true&width=500&height=50&color=FF4D2D&vCenter=true&size=24" alt="Typing Header" />
   </a>
   
   
