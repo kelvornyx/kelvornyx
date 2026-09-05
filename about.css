@@ -93,7 +93,7 @@ body {
     padding: 25px 3vw 65px;
     border: 1px solid var(--line);
     border-radius: 5px;
-    background: rgba(16, 15, 49, 0.32);
+    background: rgba(16, 21, 20, 0.32);
     box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
     text-align: center;
     animation: rise 800ms ease both;
@@ -144,6 +144,7 @@ body {
 }
 
 .scratch-text {
+    grid-column: 1 / -1;
     min-height: 1.5em;
     margin: 52px auto 0;
     border-bottom: 1px solid var(--line);
